@@ -14,3 +14,4 @@ export default class CustomersController {
 
     return response.json(customer);
   }
+}
